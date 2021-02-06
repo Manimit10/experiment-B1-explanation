@@ -18,7 +18,7 @@ const designData = [
     educationlevel: 'Lower Secondary Education',
     studentamount: 'Less than 10 students',
     subject: 'Science',
-    time: ' More than 40 minutes',
+    time: 'More than 40 mins',
     bloom: 'Remember',
   },
   {
@@ -31,7 +31,7 @@ const designData = [
     educationlevel: 'Lower Secondary Education',
     studentamount: 'Between 30-40 Students',
     subject: 'Science',
-    time: 'More than 40 minutes',
+    time: 'More than 40 mins',
     bloom: 'Remember',
   },
   {
@@ -44,7 +44,7 @@ const designData = [
     educationlevel: 'Lower Secondary Education',
     studentamount: 'Less than 10 students',
     subject: 'Science',
-    time: 'More than 40 minutes',
+    time: 'More than 40 mins',
     bloom: 'Create',
   },
   {
@@ -57,8 +57,8 @@ const designData = [
     distanceClassroom: 'In the Classroom',
     educationlevel: 'Lower Secondary Education',
     studentamount: 'Between 30-40 Students',
-    subject: 'Social science, Business & Law',
-    time: 'More than 40 minutes',
+    subject: 'Social Science, Business & Law',
+    time: 'More than 40 mins',
     bloom: 'Create',
   },
   {
@@ -71,7 +71,7 @@ const designData = [
     educationlevel: 'Lower Secondary Education',
     studentamount: 'Between 30-40 Students',
     subject: 'Science',
-    time: 'Between 10-20 minutes',
+    time: 'Between 10-20 mins',
     bloom: 'Create',
   },
   {
